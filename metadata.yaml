@@ -1,0 +1,36 @@
+_repo: Two-on-the-Trail--A-Story-of-the-Far-Northwest_25159
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Potts, William Sherman
+    alias: Potts, W. Sherman (William Sherman)
+    birthdate: 1876
+    deathdate: 1930
+    gutenberg_agent_id: '31113'
+    url: http://www.gutenberg.org/2009/agents/31113
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Footner, Hulbert
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '6601'
+    url: http://www.gutenberg.org/2009/agents/6601
+    wikipedia: http://www.xs4all.nl/~embden11/Engels5/footner.htm
+description: ''
+gutenberg_issued: '2008-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: 'Two on the Trail: A Story of the Far Northwest'
+url: http://www.gutenberg.org/ebooks/25159
