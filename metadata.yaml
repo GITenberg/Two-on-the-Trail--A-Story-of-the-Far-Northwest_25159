@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6601
     wikipedia: http://www.xs4all.nl/~embden11/Engels5/footner.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25159#Two-on-the-Trail--A-Story-of-the-Far-Northwest
 gutenberg_issued: '2008-04-24'
 gutenberg_type: Text
 identifiers:
